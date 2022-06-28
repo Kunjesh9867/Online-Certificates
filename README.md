@@ -1,2 +1,2 @@
 # Online-Certificates
-In this repo, I have included all my online certificates
+In this repo, I have included my online certificates.
